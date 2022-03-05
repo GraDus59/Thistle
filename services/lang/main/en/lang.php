@@ -1,0 +1,21 @@
+<?php
+$LANG['ban_ip'] = 'Access to the site is restricted.';
+$LANG['e_method'] = 'Error, the POST method was not registered.';
+$LANG['e_empty'] = 'Error, required field "%field%" is empty.';
+$LANG['e_min'] = 'Error, the field "%field%" is below the border.';
+$LANG['e_max'] = 'Error, the field "%field%" is above the border.';
+$LANG['e_special'] = 'Error, field "%field%" - contains invalid characters.';
+$LANG['e_email'] = 'Error, the field "%field%" - does not meet the expectation as Mail.';
+$LANG['e_pass_compare'] = 'Error, passwords don\'t match.';
+$LANG['e_occupied_email'] = 'Error, mail is busy for use.';
+$LANG['e_occupied_login'] = 'Error, login is busy to use.';
+$LANG['e_email_not_send'] = 'The activation email was not sent to the user - ';
+$LANG['e_failed_reg'] = 'The user was not registered.';
+$LANG['e_user_failed_reg'] = 'You have not been registered, please contact the site administrator.';
+$LANG['e_bud_log_mail'] = 'The login data is incorrect or there is no such user.';
+$LANG['e_access_time'] = 'Authorization is blocked, wait %minutes%minutes to continue.';
+$LANG['e_captcha'] = 'Captcha failed.';
+$LANG['e_access_ban_ip'] = 'Authorization error.';
+$LANG['e_access_ban'] = 'The account is blocked by the system.';
+$LANG['s_enter'] = 'Logged in.';
+$LANG['s_register'] = 'Registration was successful.';
