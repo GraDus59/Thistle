@@ -15,7 +15,7 @@ return [
         'dir_activate' => 'activate'
     ],
     'CAPTCHA' => [
-        'enter' => true,
+        'enter' => false,
         'secret' => '****************************************',
         'public' => '****************************************'
     ]
